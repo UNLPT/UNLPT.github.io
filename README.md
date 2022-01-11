@@ -1,6 +1,6 @@
 # UNLPT.github.io
 ## hello world
-(υ◉ω◉υ)  
+`(υ◉ω◉υ)`  
 ＼ ( ‘ᾥ’ )/  
 　＼　 ＼  
 　　＼  γ∩ミ  
